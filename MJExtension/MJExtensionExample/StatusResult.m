@@ -2,11 +2,11 @@
 //  StatusResult.m
 
 //  字典与模型的互转
-//ssdsfdssdfds
+//ssdsfdssdfdssdfsd
 //  Created by MJ Lee on 14-5-21.sdfds
 
 //  字典与模型的互转sdfsdfsdfs
-//ssdsfds
+//ssdsfdsdsf
 //  Created by MJ Lee on 14-5-21.sdf
 
 //  Copyright (c) 2014年 itsfcast. All rights reserved.
