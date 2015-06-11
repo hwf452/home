@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>1C1719BD-7360-4C5F-B79E-DC52E1589B62</string>
+	<string>49A88D86-B969-4C50-8B84-13ED67A70719</string>
 	<key>IDESourceControlProjectName</key>
 	<string>MJExtensionExample</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>AA028ABE-DAA8-40EE-AB96-F027D09D7A4C</key>
-		<string>https://github.com/hwf452/home.git</string>
+		<key>B07007FF-C2C7-4435-A7EB-F21243974FA5</key>
+		<string>https://github.com/CoderMJLee/MJExtension.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>MJExtension/MJExtensionExample.xcodeproj/project.xcworkspace</string>
+	<string>MJExtensionExample/MJExtensionExample.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>AA028ABE-DAA8-40EE-AB96-F027D09D7A4C</key>
+		<key>B07007FF-C2C7-4435-A7EB-F21243974FA5</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/hwf452/home.git</string>
+	<string>https://github.com/CoderMJLee/MJExtension.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>AA028ABE-DAA8-40EE-AB96-F027D09D7A4C</string>
+	<string>B07007FF-C2C7-4435-A7EB-F21243974FA5</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>AA028ABE-DAA8-40EE-AB96-F027D09D7A4C</string>
+			<string>B07007FF-C2C7-4435-A7EB-F21243974FA5</string>
 			<key>IDESourceControlWCCName</key>
-			<string>git</string>
+			<string>MJExtension</string>
 		</dict>
 	</array>
 </dict>
